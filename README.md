@@ -17,7 +17,14 @@
 
 - 📫 How to reach me **raghurajsingh83170754477@gmail.com**
 
- <style>
+
+
+  
+
+<h1 style="
+        font-family: Arial, sans-serif;
+        display: inline-block;
+        animation: rainbowColors 3s infinite, textSize 2s infinite;
         @keyframes rainbowColors {
             0% { color: red; }
             14% { color: orange; }
@@ -28,22 +35,12 @@
             85% { color: violet; }
             100% { color: red; }
         }
-
         @keyframes textSize {
             0%, 100% { font-size: 30px; }
             25% { font-size: 40px; }
             50% { font-size: 50px; }
             75% { font-size: 60px; }
-        }
-
-        h1 {
-            font-family: Arial, sans-serif;
-            animation: rainbowColors 3s infinite, textSize 2s infinite;
-            display: inline-block;
-        }
-    </style>
-
-<h1 align="left">Connect with me:</h1>
+        }"  align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://codepen.io/raghuraj-pratap-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/raghuraj-pratap-singh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raghuraj-pratap-singh-kietians/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raghuraj-pratap-singh-kietians/" height="30" width="40" /></a>
