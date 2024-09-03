@@ -17,15 +17,41 @@
 
 - 📫 How to reach me **raghurajsingh83170754477@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+ <style>
+        @keyframes rainbowColors {
+            0% { color: red; }
+            14% { color: orange; }
+            28% { color: yellow; }
+            42% { color: green; }
+            57% { color: blue; }
+            71% { color: indigo; }
+            85% { color: violet; }
+            100% { color: red; }
+        }
+
+        @keyframes textSize {
+            0%, 100% { font-size: 30px; }
+            25% { font-size: 40px; }
+            50% { font-size: 50px; }
+            75% { font-size: 60px; }
+        }
+
+        h1 {
+            font-family: Arial, sans-serif;
+            animation: rainbowColors 3s infinite, textSize 2s infinite;
+            display: inline-block;
+        }
+    </style>
+
+<h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://codepen.io/raghuraj-pratap-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/raghuraj-pratap-singh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raghuraj-pratap-singh-kietians/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raghuraj-pratap-singh-kietians/" height="30" width="40" /></a>
 <a href="https://instagram.com/i_am_raghurajsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_raghurajsingh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC4YaAagnnAOK0883zQeaBPg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc4yaaagnnaok0883zqeabpg" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/raghurajsingh8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raghurajsingh8" height="30" width="40" /></a>
+<!-- <a href="https://www.youtube.com/channel/UC4YaAagnnAOK0883zQeaBPg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc4yaaagnnaok0883zqeabpg" height="30" width="40" /></a> -->
+<!-- <a href="https://www.codechef.com/users/raghurajsingh8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raghurajsingh8" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/raghurajsingh8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raghurajsingh8" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/raghurajsinghit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="raghurajsinghit" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/raghurajsinghit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="raghurajsinghit" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
